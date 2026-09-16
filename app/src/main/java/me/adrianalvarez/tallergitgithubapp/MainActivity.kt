@@ -106,7 +106,7 @@ fun TarjetaPersonal(modifier: Modifier = Modifier) {
             Spacer(modifier = Modifier.height(12.dp))
 
             Text(
-                text = "Estudiante apasionado por la creación de videojuegos, con interés en crear videojuegos divertidos y que le gusten al público.",
+                text = "Estudiante apasionado por la creación de videojuegos, con interés en crear videojuegos divertidos y que le gusten al público. Además, intereado en la Ciberseguridad y aprender todo lo que tiene ese entorno y así crear programas que guarden toda la seguridad del cliente.",
                 fontSize = 14.sp,
                 color = Color.DarkGray
             )
